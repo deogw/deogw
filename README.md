@@ -3,12 +3,10 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/deogw/deogw/main/assets/welkom.gif" alt="welkom to my github profile">
 	<br>
-	<br>
 </div>
 
 
-
-<h3 style="text-align:center">Some Useless Stats</h3>
+<h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2030%20mins-blue)
