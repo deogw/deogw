@@ -84,4 +84,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
             alt="welkom to my github profile" height="75px">
     </a>
     <br>
+ᴘᴀᴘᴀ ʙʟᴇꜱꜱ ᴍʏ ᴄᴏᴅᴇ
 </div>
