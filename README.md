@@ -76,3 +76,12 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
  Last Updated on 28/07/2024 19:31:11 UTC
 <!--END_SECTION:waka-->
+
+<div align="center">
+    <br>
+    <a href="https://youtu.be/dQw4w9WgXcQ">
+        <img src="https://raw.githubusercontent.com/deogw/deogw/main/assets/papabless.png"
+            alt="welkom to my github profile" height="100px">
+    </a>
+    <br>
+</div>
