@@ -78,13 +78,4 @@ JavaScript               7 repos             ████░░░░░░░�
 C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/deogw/deogw/main/assets/bar_graph.png)
-
-
- Last Updated on 28/07/2024 18:34:48 UTC
 <!--END_SECTION:waka-->
