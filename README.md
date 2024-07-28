@@ -1,7 +1,7 @@
 ## Hi There! 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,5 +76,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deogw/deogw/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2024 18:28:27 UTC
+ Last Updated on 28/07/2024 18:29:55 UTC
 <!--END_SECTION:waka-->
