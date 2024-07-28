@@ -81,7 +81,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
     <br>
     <a href="https://youtu.be/dQw4w9WgXcQ">
         <img src="https://raw.githubusercontent.com/deogw/deogw/main/assets/papabless.png"
-            alt="welkom to my github profile" height="100px">
+            alt="welkom to my github profile" height="75px">
     </a>
     <br>
 </div>
