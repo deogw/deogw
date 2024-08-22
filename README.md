@@ -1,5 +1,3 @@
-## Hi There! 👋
-
 <div align="center">
 	<img src="https://raw.githubusercontent.com/deogw/deogw/main/assets/welkom.gif" alt="welkom to my github profile">
 	<br>
