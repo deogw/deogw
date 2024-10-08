@@ -35,14 +35,13 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 52 mins        █████████████████████░░░░   85.80 % 
-JavaScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -58,7 +57,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2024 22:59:10 UTC
+ Last Updated on 08/10/2024 22:59:29 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
