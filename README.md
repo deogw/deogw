@@ -5,13 +5,13 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.62%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 141.5 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -35,15 +35,16 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      3 hrs 33 mins       █████████████████░░░░░░░░   69.54 % 
-Other                    1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Lua                      7 hrs 18 mins       ███████████████████░░░░░░   76.96 % 
+Other                    1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -59,7 +60,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 22:59:11 UTC
+ Last Updated on 01/01/2026 22:59:25 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
