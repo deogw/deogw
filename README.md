@@ -5,11 +5,11 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 145.9 kB Used in GitHub's Storage 
+> 📦 146.0 kB Used in GitHub's Storage 
  > 
 > 🏆 178 Contributions in the Year 2026
  > 
@@ -19,31 +19,6 @@
  > 
 > 🔑 48 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-🌆 Daytime                1888 commits        ██████████░░░░░░░░░░░░░░░   39.71 % 
-🌃 Evening                1088 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-🌙 Night                  1120 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Lua                      22 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -57,7 +32,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 23:52:18 UTC
+ Last Updated on 28/05/2026 23:59:17 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
