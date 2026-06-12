@@ -9,55 +9,30 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 154.2 kB Used in GitHub's Storage 
+> 📦 154.3 kB Used in GitHub's Storage 
  > 
-> 🏆 183 Contributions in the Year 2026
+> 🏆 190 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 48 Private Repositories 
+> 🔑 49 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-🌆 Daytime                1890 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
-🌃 Evening                1096 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌙 Night                  1122 commits        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Lua                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Lua                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Luau                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
 
 
- Last Updated on 11/06/2026 00:06:17 UTC
+ Last Updated on 12/06/2026 00:11:42 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
