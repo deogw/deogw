@@ -5,13 +5,13 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.59%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.60%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 154.3 kB Used in GitHub's Storage 
+> 📦 154.4 kB Used in GitHub's Storage 
  > 
-> 🏆 190 Contributions in the Year 2026
+> 🏆 196 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -19,6 +19,31 @@
  > 
 > 🔑 49 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+🌆 Daytime                1898 commits        ██████████░░░░░░░░░░░░░░░   39.67 % 
+🌃 Evening                1097 commits        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌙 Night                  1122 commits        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -32,7 +57,7 @@ Luau                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2026 00:11:42 UTC
+ Last Updated on 13/06/2026 00:10:04 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
