@@ -5,13 +5,13 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.62%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.64%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 154.7 kB Used in GitHub's Storage 
+> 📦 155.0 kB Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2026
+> 🏆 214 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,10 +22,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                669 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-🌆 Daytime                1903 commits        ██████████░░░░░░░░░░░░░░░   39.69 % 
-🌃 Evening                1101 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌙 Night                  1122 commits        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+🌞 Morning                673 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌆 Daytime                1907 commits        ██████████░░░░░░░░░░░░░░░   39.70 % 
+🌃 Evening                1101 commits        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+🌙 Night                  1122 commits        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
 ```
 
 
@@ -47,17 +47,17 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Dart                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 Lua                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Luau                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
 
 
- Last Updated on 14/06/2026 23:57:56 UTC
+ Last Updated on 16/06/2026 00:20:59 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
