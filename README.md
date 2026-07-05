@@ -5,27 +5,27 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 157.9 kB Used in GitHub's Storage 
+> 📦 158.9 kB Used in GitHub's Storage 
  > 
-> 🏆 300 Contributions in the Year 2026
+> 🏆 311 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 49 Private Repositories 
+> 🔑 51 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-🌆 Daytime                1977 commits        ██████████░░░░░░░░░░░░░░░   39.98 % 
-🌃 Evening                1158 commits        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-🌙 Night                  1127 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+🌞 Morning                683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌆 Daytime                1977 commits        ██████████░░░░░░░░░░░░░░░   39.91 % 
+🌃 Evening                1158 commits        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+🌙 Night                  1136 commits        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
 ```
 
 
@@ -35,31 +35,29 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      25 mins             ██████████████████████░░░   86.97 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             ████████████████░░░░░░░░░   65.66 % 
-Antigravity IDE          9 mins              █████████░░░░░░░░░░░░░░░░   34.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Lua                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Luau                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Lua                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Luau                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
 
 
 
- Last Updated on 04/07/2026 23:48:11 UTC
+ Last Updated on 05/07/2026 23:50:53 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
