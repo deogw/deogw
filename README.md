@@ -5,11 +5,11 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 159.9 kB Used in GitHub's Storage 
+> 📦 160.0 kB Used in GitHub's Storage 
  > 
 > 🏆 342 Contributions in the Year 2026
  > 
@@ -22,10 +22,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌆 Daytime                2004 commits        ██████████░░░░░░░░░░░░░░░   39.59 % 
-🌃 Evening                1192 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-🌙 Night                  1146 commits        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+🌞 Morning                720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌆 Daytime                2009 commits        ██████████░░░░░░░░░░░░░░░   39.63 % 
+🌃 Evening                1193 commits        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+🌙 Night                  1147 commits        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
 ```
 
 
@@ -35,13 +35,17 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      22 hrs 55 mins      ██████████████████████░░░   86.37 % 
+Markdown                 2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          26 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      26 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -57,7 +61,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 23:48:27 UTC
+ Last Updated on 23/07/2026 23:46:35 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
