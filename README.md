@@ -5,13 +5,13 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 160.0 kB Used in GitHub's Storage 
+> 📦 159.9 kB Used in GitHub's Storage 
  > 
-> 🏆 342 Contributions in the Year 2026
+> 🏆 369 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,10 +22,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-🌆 Daytime                2009 commits        ██████████░░░░░░░░░░░░░░░   39.63 % 
-🌃 Evening                1193 commits        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-🌙 Night                  1147 commits        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+🌞 Morning                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+🌆 Daytime                2021 commits        ██████████░░░░░░░░░░░░░░░   39.59 % 
+🌃 Evening                1199 commits        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+🌙 Night                  1148 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
 ```
 
 
@@ -35,17 +35,17 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      22 hrs 55 mins      ██████████████████████░░░   86.37 % 
-Markdown                 2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Lua                      21 hrs 49 mins      ██████████████████████░░░   88.95 % 
+Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Antigravity IDE          26 hrs 32 mins      █████████████████████████   100.00 % 
+Antigravity IDE          24 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -61,7 +61,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 23:46:35 UTC
+ Last Updated on 24/07/2026 23:49:51 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
