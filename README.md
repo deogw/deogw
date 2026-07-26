@@ -5,7 +5,7 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.51%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -22,10 +22,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                775 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-🌆 Daytime                2058 commits        ██████████░░░░░░░░░░░░░░░   39.42 % 
-🌃 Evening                1231 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-🌙 Night                  1157 commits        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+🌞 Morning                809 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+🌆 Daytime                2088 commits        ██████████░░░░░░░░░░░░░░░   39.23 % 
+🌃 Evening                1259 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+🌙 Night                  1166 commits        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
 ```
 
 
@@ -35,17 +35,16 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      21 hrs 49 mins      ██████████████████████░░░   88.95 % 
-Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Lua                      16 hrs 17 mins      ██████████████████████░░░   86.61 % 
+Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Antigravity IDE          24 hrs 32 mins      █████████████████████████   100.00 % 
+Antigravity IDE          18 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -61,7 +60,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 23:47:22 UTC
+ Last Updated on 26/07/2026 23:47:49 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
