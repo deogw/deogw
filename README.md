@@ -5,6 +5,8 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2016%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -35,16 +37,38 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      16 hrs 17 mins      ██████████████████████░░░   86.61 % 
-Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Lua                      13 hrs 38 mins      █████████████████████░░░░   84.52 % 
+Markdown                 2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 48 mins      █████████████████████████   100.00 % 
+Antigravity IDE          16 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 7 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 7 mins (100.0%)
+
+✍️ 2,499 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 26 AI Sessions, 237 AI Prompts
+
+Gemini                   2,896 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 299 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -60,7 +84,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 23:47:49 UTC
+ Last Updated on 27/07/2026 23:51:30 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
