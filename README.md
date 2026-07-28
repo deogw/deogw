@@ -5,15 +5,13 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2016%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.58%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 160.1 kB Used in GitHub's Storage 
  > 
-> 🏆 382 Contributions in the Year 2026
+> 🏆 383 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -24,10 +22,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                809 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-🌆 Daytime                2088 commits        ██████████░░░░░░░░░░░░░░░   39.23 % 
-🌃 Evening                1259 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-🌙 Night                  1166 commits        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+🌞 Morning                778 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+🌆 Daytime                2060 commits        ██████████░░░░░░░░░░░░░░░   39.41 % 
+🌃 Evening                1232 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+🌙 Night                  1157 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
 ```
 
 
@@ -37,37 +35,35 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      13 hrs 38 mins      █████████████████████░░░░   84.52 % 
-Markdown                 2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Lua                      8 hrs 48 mins       ████████████████████░░░░░   81.71 % 
+Markdown                 1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 
 🔥 Editors: 
-Antigravity IDE          16 hrs 7 mins       █████████████████████████   100.00 % 
+Antigravity IDE          10 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 7 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 47 mins (100.0%)
 
-✍️ 2,499 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,735 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 237 AI Prompts
+🧠 19 AI Sessions, 160 AI Prompts
 
-Gemini                   2,896 lines         █████████████████████████   100.00 % 
+Gemini                   2,007 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 299 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 277 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -84,7 +80,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 23:51:30 UTC
+ Last Updated on 28/07/2026 23:47:26 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
