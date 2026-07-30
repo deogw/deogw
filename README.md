@@ -37,36 +37,19 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      4 hrs               ████████████████████░░░░░   81.39 % 
-Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 55 mins (100.0%)
-
-✍️ 666 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 73 AI Prompts
-
-Gemini                   786 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 235 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -82,7 +65,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 23:48:24 UTC
+ Last Updated on 30/07/2026 23:47:42 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
