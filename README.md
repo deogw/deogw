@@ -5,13 +5,11 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2016%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 160.6 kB Used in GitHub's Storage 
+> 📦 160.7 kB Used in GitHub's Storage 
  > 
 > 🏆 383 Contributions in the Year 2026
  > 
@@ -21,37 +19,6 @@
  > 
 > 🔑 52 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                794 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-🌆 Daytime                2083 commits        ██████████░░░░░░░░░░░░░░░   39.32 % 
-🌃 Evening                1252 commits        ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-🌙 Night                  1169 commits        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -65,7 +32,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 23:44:59 UTC
+ Last Updated on 07/08/2026 01:40:59 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
