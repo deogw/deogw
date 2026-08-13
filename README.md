@@ -24,10 +24,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                797 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-🌆 Daytime                2105 commits        ██████████░░░░░░░░░░░░░░░   39.35 % 
-🌃 Evening                1270 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-🌙 Night                  1178 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+🌞 Morning                797 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌆 Daytime                2107 commits        ██████████░░░░░░░░░░░░░░░   39.37 % 
+🌃 Evening                1270 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌙 Night                  1178 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
 ```
 
 
@@ -37,19 +37,40 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      31 hrs 21 mins      ████████████████████░░░░░   80.07 % 
+Markdown                 7 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          39 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      39 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 38 hrs 52 mins (99.29%)
+
+✍️ 3,537 lines written by AI, 39 lines written by hand (98.91% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 116 AI Sessions, 555 AI Prompts
+
+Gemini                   4,005 lines         ██████████████████████░░░   89.00 % 
+Opus                     495 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.91% of written lines came from AI
+📝 Concise Prompter — average 233 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 60.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -65,7 +86,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 23:27:57 UTC
+ Last Updated on 13/08/2026 23:29:07 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
