@@ -5,7 +5,7 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.54%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,40 +37,41 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      31 hrs 21 mins      ████████████████████░░░░░   80.07 % 
-Markdown                 7 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Lua                      31 hrs 48 mins      ███████████████████░░░░░░   77.64 % 
+Markdown                 8 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Text                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Antigravity IDE          39 hrs 9 mins       █████████████████████████   100.00 % 
+Antigravity IDE          40 hrs 7 mins       ████████████████████████░   97.95 % 
+Antigravity Desktop      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Mac                      39 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      40 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 52 mins (99.29%)
+⏱ AI Coding Time: 39 hrs 43 mins (97.0%)
 
-✍️ 3,537 lines written by AI, 39 lines written by hand (98.91% AI-written)
+✍️ 3,834 lines written by AI, 88 lines written by hand (97.76% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 116 AI Sessions, 555 AI Prompts
+🧠 110 AI Sessions, 613 AI Prompts
 
-Gemini                   4,005 lines         ██████████████████████░░░   89.00 % 
-Opus                     495 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Gemini                   4,456 lines         ██████████████████████░░░   90.00 % 
+Opus                     495 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.91% of written lines came from AI
-📝 Concise Prompter — average 233 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 60.95% of changed lines were hand-edited
+🤖 AI-Driven — 97.76% of written lines came from AI
+📝 Concise Prompter — average 227 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 58.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -86,7 +87,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 23:29:07 UTC
+ Last Updated on 14/08/2026 23:08:03 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
