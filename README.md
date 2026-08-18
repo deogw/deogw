@@ -37,41 +37,41 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      33 hrs 57 mins      ███████████████████░░░░░░   76.28 % 
-Markdown                 8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Text                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Lua                      31 hrs 6 mins       ███████████████████░░░░░░   74.93 % 
+Markdown                 8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Text                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-Antigravity IDE          43 hrs 40 mins      █████████████████████████   98.12 % 
-Antigravity Desktop      50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Antigravity IDE          40 hrs 40 mins      ████████████████████████░   97.98 % 
+Antigravity Desktop      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 💻 Operating System: 
-Mac                      44 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 17 mins (95.02%)
+⏱ AI Coding Time: 39 hrs 17 mins (94.66%)
 
-✍️ 4,161 lines written by AI, 290 lines written by hand (93.48% AI-written)
+✍️ 3,976 lines written by AI, 290 lines written by hand (93.2% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 95 AI Sessions, 774 AI Prompts
+🧠 86 AI Sessions, 728 AI Prompts
 
-Gemini                   5,262 lines         ████████████████████████░   95.22 % 
-Opus                     264 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Gemini                   5,061 lines         ████████████████████████░   95.04 % 
+Opus                     264 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.48% of written lines came from AI
-📝 Concise Prompter — average 237 characters per prompt
+🤖 AI-Driven — 93.2% of written lines came from AI
+📝 Concise Prompter — average 238 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 81.11% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 81.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -87,7 +87,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 23:09:46 UTC
+ Last Updated on 18/08/2026 23:10:38 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
