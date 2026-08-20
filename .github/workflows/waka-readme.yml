@@ -28,3 +28,4 @@ jobs:
           SHOW_PROJECTS: "false"
           SHOW_PROFILE_VIEWS: "false"
           DEBUG_LOGGING: "true"
+          SHOW_AI_CODING: "false"
