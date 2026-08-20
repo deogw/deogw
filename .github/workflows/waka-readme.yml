@@ -29,3 +29,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "false"
           DEBUG_LOGGING: "true"
           SHOW_AI_CODING: "false"
+          SHOW_AI_CODE_TIME: "false"
