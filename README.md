@@ -43,36 +43,11 @@ Text                     59 mins             █░░░░░░░░░░�
 JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
-🔥 Editors: 
-Antigravity IDE          35 hrs 32 mins      ████████████████████████░   97.69 % 
-Antigravity Desktop      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
 Mac                      36 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 32 hrs 55 mins (90.5%)
-
-✍️ 3,268 lines written by AI, 388 lines written by hand (89.39% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 60 AI Sessions, 703 AI Prompts
-
-Gemini                   3,891 lines         ███████████████████████░░   90.61 % 
-Opus                     403 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 89.39% of written lines came from AI
-📝 Concise Prompter — average 245 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 84.76% of changed lines were hand-edited
-```
 
 **I Mostly Code in Dart** 
 
