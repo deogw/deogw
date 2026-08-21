@@ -22,10 +22,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌆 Daytime                2108 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
-🌃 Evening                1276 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌙 Night                  1194 commits        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+🌞 Morning                803 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+🌆 Daytime                2108 commits        ██████████░░░░░░░░░░░░░░░   39.16 % 
+🌃 Evening                1277 commits        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+🌙 Night                  1195 commits        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
 ```
 
 
@@ -35,14 +35,14 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      26 hrs              ███████████████████░░░░░░   76.45 % 
-Markdown                 4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Text                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Lua                      31 hrs 59 mins      █████████████████████░░░░   82.60 % 
+Markdown                 3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Text                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Mac                      34 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      38 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -58,7 +58,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 23:13:17 UTC
+ Last Updated on 21/08/2026 23:11:26 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
