@@ -35,8 +35,8 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      12 hrs              ████████████████████████░   96.59 % 
-TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Lua                      11 hrs 59 mins      ████████████████████████░   96.58 % 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
@@ -58,7 +58,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 00:57:11 UTC
+ Last Updated on 18/09/2026 00:51:36 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
