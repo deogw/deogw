@@ -35,13 +35,13 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Lua                      8 hrs 47 mins       █████████████████████████   98.05 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Lua                      8 hrs 40 mins       █████████████████████████   98.03 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      8 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -57,7 +57,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 00:45:00 UTC
+ Last Updated on 20/09/2026 00:29:11 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
