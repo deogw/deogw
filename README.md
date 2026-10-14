@@ -35,14 +35,12 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   56 mins             ██████████████░░░░░░░░░░░   56.55 % 
-JavaScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-XML                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Python                   18 mins             ███████████████████░░░░░░   74.88 % 
+Text                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -58,7 +56,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 03:15:29 UTC
+ Last Updated on 14/10/2026 01:29:01 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
