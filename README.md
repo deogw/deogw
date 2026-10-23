@@ -5,13 +5,13 @@
 <h2 style="text-align:center">Some Useless Stats</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.60%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 162.5 kB Used in GitHub's Storage 
+> 📦 163.1 kB Used in GitHub's Storage 
  > 
-> 🏆 406 Contributions in the Year 2026
+> 🏆 412 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,10 +22,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                803 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌆 Daytime                2112 commits        ██████████░░░░░░░░░░░░░░░   39.08 % 
-🌃 Evening                1294 commits        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-🌙 Night                  1195 commits        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌞 Morning                807 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+🌆 Daytime                2114 commits        ██████████░░░░░░░░░░░░░░░   39.08 % 
+🌃 Evening                1294 commits        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+🌙 Night                  1195 commits        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
 ```
 
 
@@ -35,14 +35,14 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               7 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-JavaScript               6 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-JSON                     5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Markdown                 5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Lua                      4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+TypeScript               9 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+JavaScript               6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Markdown                 6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+JSON                     4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Lua                      4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 
 💻 Operating System: 
-Mac                      35 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -58,7 +58,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 01:01:31 UTC
+ Last Updated on 23/10/2026 01:04:36 UTC
 <!--END_SECTION:waka-->
 ---
 <div align="center">
